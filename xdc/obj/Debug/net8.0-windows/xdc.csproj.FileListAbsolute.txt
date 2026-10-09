@@ -1,0 +1,17 @@
+E:\c#\xdc\obj\Debug\net8.0-windows\xdc.Form1.resources
+E:\c#\xdc\obj\Debug\net8.0-windows\xdc.Properties.Resources.resources
+E:\c#\xdc\obj\Debug\net8.0-windows\xdc.csproj.GenerateResource.cache
+E:\c#\xdc\obj\Debug\net8.0-windows\xdc.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\xdc\obj\Debug\net8.0-windows\xdc.AssemblyInfoInputs.cache
+E:\c#\xdc\obj\Debug\net8.0-windows\xdc.AssemblyInfo.cs
+E:\c#\xdc\obj\Debug\net8.0-windows\xdc.csproj.CoreCompileInputs.cache
+E:\c#\xdc\bin\Debug\net8.0-windows\xdc.exe
+E:\c#\xdc\bin\Debug\net8.0-windows\xdc.deps.json
+E:\c#\xdc\bin\Debug\net8.0-windows\xdc.runtimeconfig.json
+E:\c#\xdc\bin\Debug\net8.0-windows\xdc.dll
+E:\c#\xdc\bin\Debug\net8.0-windows\xdc.pdb
+E:\c#\xdc\obj\Debug\net8.0-windows\xdc.dll
+E:\c#\xdc\obj\Debug\net8.0-windows\refint\xdc.dll
+E:\c#\xdc\obj\Debug\net8.0-windows\xdc.pdb
+E:\c#\xdc\obj\Debug\net8.0-windows\xdc.genruntimeconfig.cache
+E:\c#\xdc\obj\Debug\net8.0-windows\ref\xdc.dll
